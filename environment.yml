@@ -8,7 +8,5 @@ dependencies:
   - numpy
   - jupyterlab
   - arviz
-  - libpython
   - nb_black
   - altair
-prefix: C:\Users\Sebastian\.conda\envs\pymc3
