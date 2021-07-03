@@ -9,11 +9,12 @@ Using PyMC3 we model the number of registrations including releasing new sets an
 
 ![Model with and without COVID-19](./altair_output/covid_start_data.svg)
 
+
 ## Running the Notebook
 
 You can open the notebooks on [Binder](https://mybinder.org/v2/gh/4dcu-be/BayesianSalesAnalysis/HEAD).
 
-To get the code running locally the easiest option is using Anaconda
+To get the code running locally the easiest option is using [Anaconda]
 
 ```bash
 git clone https://github.com/4dcu-be/BayesianSalesAnalysis
@@ -31,3 +32,5 @@ In case you are running this on windows you might need to install libpython in t
 
 [PyMC3]: https://docs.pymc.io/
 [KeyForge]: https://www.keyforgegame.com/
+[Archon Arcana]: https://archonarcana.com/Main_Page
+[Anaconda]: https://anaconda.org/
