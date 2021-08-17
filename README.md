@@ -5,6 +5,8 @@
 
 In these notebooks [PyMC3] is used to model the number of registered [KeyForge] decks. Data on the weekly registragions was provided by Duk from [Archon Arcana].
 
+For more details read the corresponding blog post on 4DCu.be [here](http://blog.4dcu.be/programming/games/2021/07/04/Bayesian-sales-analysis.html)
+
 Using PyMC3 we model the number of registrations including releasing new sets and the global outbreak of COVID-19. Once a good model was found, we also check how many decks would have been registered if COVID-19 didn't put the world in lockdown.
 
 ![Model with and without COVID-19](./altair_output/covid_start_data.svg)
