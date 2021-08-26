@@ -10,3 +10,4 @@ dependencies:
   - arviz
   - nb_black
   - altair
+  - tqdm
