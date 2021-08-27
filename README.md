@@ -3,7 +3,7 @@
 # BayesianSalesAnalysis
 
 
-In these notebooks [PyMC3] is used to model the number of registered [KeyForge] decks. Data on the weekly registragions was provided by Duk from [Archon Arcana].
+In these notebooks [PyMC3] is used to model the number of registered [KeyForge] decks. Data on the weekly registragions was provided by Duk from [Archon Arcana]. Names of Dark Tidings decks for the second part to estimate the total number of decks printed were provided by Saluk, another member of [Archon Arcana]
 
 For more details read the corresponding blog post on 4DCu.be [here](http://blog.4dcu.be/programming/games/2021/07/04/Bayesian-sales-analysis.html)
 

@@ -11,3 +11,4 @@ dependencies:
   - nb_black
   - altair
   - tqdm
+  - langdetect
